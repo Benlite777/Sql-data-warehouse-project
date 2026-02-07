@@ -1,3 +1,9 @@
+/*
+In this script we create a new database named Datawarehouse after checking if it already exists.
+Additinally it sets up three schemas within the database bronze,silver and gold.
+*/
+
+
 USE master;
 GO
 
