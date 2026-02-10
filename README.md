@@ -1,7 +1,6 @@
 # SQL Data Warehouse Project
 
 An end-to-end **SQL Data Warehouse** built using **SQL Server**, following a **Bronze → Silver → Gold** layered architecture.
-This project demonstrates practical **data engineering**, **ETL**, and **analytics** skills using real-world data.
 
 ---
 
