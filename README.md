@@ -35,8 +35,6 @@ An end-to-end **SQL Data Warehouse** built using **SQL Server**, following a **B
 * **dim_customers**
 * **dim_products**
 
-Designed for analytical queries and reporting.
-
 ---
 
 ## 🛠️ Tech Stack
